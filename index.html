@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <title>My Little Universe</title>
+  <meta charset="UTF-8">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap"
+    rel="stylesheet">
+
+  <!-- CSS File -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- backgrounds -->
+  <div class="stars"></div>
+  <div class="glow glow-one"></div>
+  <div class="glow glow-two"></div>
+
+  <!-- header (main banner) -->
+  <header class="main-banner" id="home">
+
+    <!-- navigation bar -->
+    <nav class="navbar">
+      <a class="logo" href="#home">MY UNIVERSE</a>
+
+      <div class="nav-links">
+        <a href="#about">About</a>
+        <a href="#worlds">My Worlds</a>
+        <a href="#ideas">Ideas</a>
+        <a href="#loading">Loading</a>
+      </div>
+    </nav>
+
+    <!-- content in main banner -->
+    <div class="main-banner-content">
+
+      <p class="intro">WELCOME TO</p>
+      <h1>My Little Universe</h1>
+
+      <p class="quote">
+        I don’t just learn technology.
+        <br>
+        I imagine what it could become.
+      </p>
+
+      <div class="floating-words">
+        <span>Dreamer</span>
+        <span class="word-two">Builder</span>
+        <span class="word-three">Curious</span>
+        <span class="word-four">Creative</span>
+        <span class="word-five">Future Developer</span>
+      </div>
+
+      <a class="main-button" href="#about">Explore My World</a>
+    </div>
+
+    <!-- moving objects -->
+    <div class="orbit orbit-one">
+      <div class="planet planet-one"></div>
+    </div>
+    <div class="orbit orbit-two">
+      <div class="planet planet-two"></div>
+    </div>
+
+  </header>
+
+  <!-- main -->
+  <main>
+
+    <!-- about me section (1) -->
+    <section class="section" id="about">
+
+      <!-- number & heading -->
+      <div class="section-heading">
+        <p class="section-number">01</p>
+        <h2>A Little About Me</h2>
+      </div>
+
+      <!-- card -->
+      <div class="glass-card about-card">
+
+        <div class="profile-shape"> R </div> <!-- profile in card -->
+
+        <div class="about-text"> <!-- text in card -->
+          <p>
+            I am an Information Systems student who is interested in technology,
+            creativity, and building meaningful digital experiences.
+          </p>
+
+          <p>
+            I enjoy exploring web development, application design, and creative thinking.
+            I am always curious about how ideas can grow into real projects that help people.
+          </p>
+
+          <div class="mini-tags">
+            <span>Information Systems</span>
+            <span>Web Development</span>
+            <span>Application Design</span>
+            <span>Creative Thinking</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- my worlds section (2) -->
+    <section class="section" id="worlds">
+
+      <!-- number & heading -->
+      <div class="section-heading">
+        <p class="section-number">02</p>
+        <h2>The Worlds Inside Me</h2>
+      </div>
+
+      <!-- one div including three cards -->
+      <div class="world-grid">
+
+        <!-- first card -->
+        <article class="glass-card world-card builder-card">
+          <div class="card-icon">✦</div>
+          <p class="card-label">WORLD 01</p>
+          <h3>The Builder</h3>
+          <p>
+            I love transforming ideas into real projects, especially applications
+            and systems that solve everyday problems and make life feel more organized.
+          </p>
+          <div class="card-line"></div>
+          <span class="small-note">Creating. Testing. Improving.</span>
+        </article>
+
+        <!-- second card -->
+        <article class="glass-card world-card explorer-card">
+          <div class="card-icon">⌁</div>
+          <p class="card-label">WORLD 02</p>
+          <h3>The Explorer</h3>
+          <p>
+            I enjoy learning about web and applications development.
+            Every new skill feels like discovering another planet.
+          </p>
+          <div class="card-line"></div>
+          <span class="small-note">Always learning something new.</span>
+        </article>
+
+        <!-- third card -->
+        <article class="glass-card world-card dreamer-card">
+          <div class="card-icon">☾</div>
+          <p class="card-label">WORLD 03</p>
+          <h3>The Dreamer</h3>
+          <p>
+            My imagination is one of my favorite places. I enjoy writing,
+            creating stories, and thinking about worlds that do not exist yet.
+          </p>
+          <div class="card-line"></div>
+          <span class="small-note">Where imagination becomes possibility.</span>
+        </article>
+      </div>
+
+    </section>
+
+    <!-- ideas section (3) -->
+    <section class="section" id="ideas">
+
+      <!-- number & heading -->
+      <div class="section-heading">
+        <p class="section-number">03</p>
+        <h2>Ideas I Want to Bring to Life</h2>
+      </div>
+
+      <!-- one div including three cards -->
+      <div class="ideas-layout">
+
+        <!-- first card -->
+        <article class="idea-card">
+          <div class="idea-number">01</div>
+          <div>
+            <h3>Technology That Feels Human</h3>
+            <p>
+              I want to design applications that understand real human needs,
+              not just complete technical functions.
+            </p>
+          </div>
+        </article>
+
+        <!-- second card -->
+        <article class="idea-card">
+          <div class="idea-number">02</div>
+          <div>
+            <h3>Smarter Health Solutions</h3>
+            <p>
+              I am interested in how artificial intelligence can support health,
+              research, and the discovery of useful solutions from nature.
+            </p>
+          </div>
+        </article>
+
+        <!-- third card -->
+        <article class="idea-card">
+          <div class="idea-number">03</div>
+          <div>
+            <h3>Creative Digital Worlds</h3>
+            <p>
+              I want to combine storytelling, design, and technology to create
+              experiences that feel different, memorable, and alive.
+            </p>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- loading section (4) -->
+    <section class="section" id="loading">
+
+      <!-- number & heading -->
+      <div class="section-heading">
+        <p class="section-number">04</p>
+        <h2>Currently Loading...</h2>
+      </div>
+
+      <!-- card -->
+      <div class="glass-card progress-card">
+
+        <!-- skill 1 -->
+        <div class="skill first-skill">
+          <div class="skill-title">
+            <span>Web Development</span>
+            <span class="skill-value">45%</span>
+          </div>
+          <div class="progress-track">
+            <div class="progress-fill web-progress"></div>
+          </div>
+        </div>
+
+        <!-- skill 2 -->
+        <div class="skill">
+          <div class="skill-title">
+            <span>Application Design</span>
+            <span class="skill-value">55%</span>
+          </div>
+          <div class="progress-track">
+            <div class="progress-fill design-progress"></div>
+          </div>
+        </div>
+
+        <!-- skill 3 -->
+        <div class="skill">
+          <div class="skill-title">
+            <span>Creative Thinking</span>
+            <span class="skill-value">65%</span>
+          </div>
+          <div class="progress-track">
+            <div class="progress-fill creative-progress"></div>
+          </div>
+        </div>
+
+        <!-- skill 4 -->
+        <div class="skill">
+          <div class="skill-title">
+            <span>Turning Ideas into Reality</span>
+            <span class="skill-value">Always loading...</span>
+          </div>
+          <div class="progress-track">
+            <div class="progress-fill dream-progress"></div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- final section (5) -->
+    <section class="section final-section">
+      <div class="final-message">
+        <h2>This Universe Is Still Expanding.</h2>
+        <p>
+          I am still learning, building, dreaming, and becoming.
+          This is only the beginning.
+        </p>
+        <a class="secondary-button" href="#home">Return to the Stars</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- footer -->
+  <footer>
+    <p>Built with HTML &amp; CSS</p>
+    <p>© 2026 My Little Universe</p>
+  </footer>
+</body>
+
+</html>
