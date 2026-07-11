@@ -15,22 +15,22 @@ The website is available through two hosting platforms:
 ## 📸 Website Preview
 
 ### Main Banner Section
-<img width="1242" height="731" alt="Screenshot 2026-07-11 063344" src="https://github.com/user-attachments/assets/afadf2d4-b099-4b55-bb2d-4d87a053fd69" />
+<img width="1242" height="731" alt="Main banner section of My Little Universe website" src="https://github.com/user-attachments/assets/afadf2d4-b099-4b55-bb2d-4d87a053fd69" />
 
 ### About Me Section
-<img width="1240" height="722" alt="Screenshot 2026-07-11 063504" src="https://github.com/user-attachments/assets/191292d1-d78a-47fb-aeb1-0a2e2efbf081" />
+<img width="1240" height="722" alt="About Me section of My Little Universe website" src="https://github.com/user-attachments/assets/191292d1-d78a-47fb-aeb1-0a2e2efbf081" />
 
 ### My Worlds Section
-<img width="1244" height="724" alt="Screenshot 2026-07-11 063531" src="https://github.com/user-attachments/assets/ac09dbb0-21e8-40dd-900e-2bd01f73ae6e" />
+<img width="1244" height="724" alt="My Worlds section of My Little Universe website" src="https://github.com/user-attachments/assets/ac09dbb0-21e8-40dd-900e-2bd01f73ae6e" />
 
 ### Ideas Section
-<img width="1248" height="720" alt="Screenshot 2026-07-11 063552" src="https://github.com/user-attachments/assets/76eedc69-4844-4bbb-ad00-83a52214be7d" />
+<img width="1248" height="720" alt="Ideas section of My Little Universe website" src="https://github.com/user-attachments/assets/76eedc69-4844-4bbb-ad00-83a52214be7d" />
 
 ### Skills Section
-<img width="1239" height="723" alt="Screenshot 2026-07-11 063627" src="https://github.com/user-attachments/assets/6eb0ddb1-62c8-402f-a124-1311a1c62d14" />
+<img width="1239" height="723" alt="Skills section of My Little Universe website" src="https://github.com/user-attachments/assets/6eb0ddb1-62c8-402f-a124-1311a1c62d14" />
 
 ### Final Section
-<img width="1238" height="589" alt="Screenshot 2026-07-11 063650" src="https://github.com/user-attachments/assets/768c9288-999c-4b02-8bcd-51bf4beda121" />
+<img width="1238" height="589" alt="Final section of My Little Universe website" src="https://github.com/user-attachments/assets/768c9288-999c-4b02-8bcd-51bf4beda121" />
 
 ---
 
@@ -57,7 +57,7 @@ The website uses a space-inspired theme with stars, glowing objects, moving plan
 
 - Smooth navigation between sections
 - Space-themed background
-- Animated stars and planets
+- Decorative stars and animated planets
 - Floating animated words
 - Glass-style cards
 - Hover effects
@@ -70,7 +70,7 @@ The website uses a space-inspired theme with stars, glowing objects, moving plan
 
 ## 🛠️ Technologies Used
 
-- HTML5
+- HTML
 - CSS
 - Google Fonts
 
