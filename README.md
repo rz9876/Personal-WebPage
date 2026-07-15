@@ -9,6 +9,8 @@ The website is available through two hosting platforms:
 
 - [✨ Visit using GitHub Pages](https://rz9876.github.io/Personal-WebPage/)
 - [🚀 Visit using InfinityFree](https://razan.free.je/?i=1)
+  
+[🟥 I added a file called "Notes to Myself" in case you would like to read it.](notes_to_myself.pdf)
 
 ---
 
