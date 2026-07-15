@@ -55,21 +55,6 @@ The website uses a space-inspired theme with stars, glowing objects, moving plan
 
 ---
 
-## ✨ Features
-
-- Smooth navigation between sections
-- Space-themed background
-- Decorative stars and animated planets
-- Floating animated words
-- Glass-style cards
-- Hover effects
-- Animated progress bars
-- Google Fonts
-- Semantic HTML structure
-- Organized external CSS file
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML
