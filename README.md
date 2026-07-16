@@ -5,7 +5,7 @@ A space-themed personal webpage built with HTML and CSS, showcasing my interests
 
 ## 🌐 Visit the Website
 
-[🚀 Visit using InfinityFree](https://razan.free.je/?i=1)
+[🚀 Visit using InfinityFree](https://my-little-universe.page.gd/?i=1)
   
 [🟥 I added a file called "ملاحظات تفصيلية لنفسي," where I wrote personal notes for myself in colloquial Arabic, in case you would like to read it.](ملاحظات%20تفصيلية%20لنفسي.pdf)
 
