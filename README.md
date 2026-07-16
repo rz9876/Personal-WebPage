@@ -57,6 +57,7 @@ The website uses a space-inspired theme with stars, glowing objects, moving plan
 - HTML
 - CSS
 - Google Fonts
-
+- InfinityFree
+- 
 No JavaScript or external framework was used.
 
